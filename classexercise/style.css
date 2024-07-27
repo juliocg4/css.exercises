@@ -1,0 +1,17 @@
+.redone,
+.santa{
+    background-color:#FF69B4;
+    font-family: 'Verdana' 'Dejavu Sans' sans-serif;
+}
+#mark{
+    color: rgb(00, 00, 255);
+    font-size: 36px;
+}
+.santa{
+    font-size: 24px;
+}
+#hamilton{
+    background-color: rgb(00, 255, 00);
+    font-size: 24px;
+    font-weight: bold;
+}
