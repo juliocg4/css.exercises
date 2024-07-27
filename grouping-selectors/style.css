@@ -1,0 +1,13 @@
+.moister,
+.just{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.moister{
+    background-color: rgb(rgb(7, 6, 6), rgb(3, 3, 3), rgb(3, 3, 3));
+    color: rgb(rgb(247, 242, 242), rgb(240, 245, 240), rgb(244, 244, 250));
+}
+.just{
+    background-color: rgb(rgb(245, 230, 18), rgb(223, 238, 21), rgb(236, 240, 13));
+}
+  
